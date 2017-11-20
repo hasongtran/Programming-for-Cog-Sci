@@ -8,6 +8,8 @@ import sometext
 """
 Psych 138 Spring 2017
 Assignment 6
+Ha Song Tran
+htran15
 """
 
 """
